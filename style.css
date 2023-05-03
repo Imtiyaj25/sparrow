@@ -75,6 +75,7 @@ button span{
     left: 45%;
     transform: translateX(-50%);
     width: 700px;
+    /* height: 285px; */
 }
 .text-container{
     max-width: 600px;
@@ -107,7 +108,7 @@ button span{
     margin: 0 20px;
     border-radius: 2px;
 }
-.control .line{
+.control .line span{
     width: 50%;
     height: 8px;
     margin-top: -2px;
