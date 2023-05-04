@@ -75,6 +75,7 @@ button span{
     left: 45%;
     transform: translateX(-50%);
     width: 700px;
+    opacity: 0;
     /* height: 285px; */
 }
 .text-container{
